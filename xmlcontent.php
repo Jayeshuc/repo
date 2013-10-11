@@ -1,7 +1,7 @@
 
 V1.0 
 
-Hello
+Hello World
 
 <?php
 $xmlstr = <<<XML
